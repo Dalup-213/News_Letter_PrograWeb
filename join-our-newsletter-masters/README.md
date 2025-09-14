@@ -20,8 +20,8 @@ Es una página sencilla y minimalista para suscribirse a un newsletter, con un �
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [Pega aquí el deploy de GitHub Pages]
+epositorio en GitHub: (https://github.com/Dalup-213/News_Letter_PrograWeb)
+Deploy: (https://dalup-213.github.io/News_Letter_PrograWeb/)
 ---
 
 ## 📝 Reflexión
